@@ -108,7 +108,7 @@ function newGame(){
         LastAttempt = []
         winLoss.innerHTML = ``
         lowHig.innerHTML = ``;
-        move.innerHTML = ` 10 attempt`
+        move.innerHTML = ` 10`
         submit.removeAttribute("disabled")
         
         startGame.removeChild(lord);

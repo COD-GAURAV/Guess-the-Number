@@ -32,13 +32,15 @@ body{
     margin: 10px;
     height: 30px;
     width: 260px;
+    background-color: white;
+    color: black;
 }
 
 #Submit{
     margin: 5px;
     height: 40px;
     width: 100px;
-    
+   
 }
 
 
